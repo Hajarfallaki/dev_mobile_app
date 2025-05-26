@@ -38,6 +38,9 @@ dependencies:
   # 👉 Ajout de tes packages ici
   google_maps_flutter: ^2.5.0
   geolocator: ^10.1.0 # version stable avec Android support complet
+  firebase_core: ^3.13.1
+  firebase_auth: ^5.5.4
+  fluttertoast: ^8.2.1    # add this line with the latest version or specify one
 
 # Forcer une version stable du sous-plugin Android
 dependency_overrides:
